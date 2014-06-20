@@ -1,0 +1,10 @@
+{
+    "name": "bzis/php-process-manager",
+    "description": "PHPProcessManager",
+    "type": "symfony-bundle",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": { "bzis\\PHPProcessManager": "" }
+    },
+    "target-dir": "bzis/PHPProcessManager"
+}
