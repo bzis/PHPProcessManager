@@ -7,6 +7,5 @@
     },
     "autoload": {
         "psr-0": { "bzis\\PHPProcessManager": "src/" }
-    },
-    "target-dir": "bzis/PHPProcessManager"
+    }
 }
